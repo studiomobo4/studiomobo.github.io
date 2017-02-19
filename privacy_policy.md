@@ -2,6 +2,9 @@
 
 This privacy policy explains what information about you is collected, how this is done, what is it used for. At our apps we recognize that privacy is significant. Please take a moment to familiarize yourself with our privacy practices.
 
+(i)  We use Camera only for picking image for editing which is the functionality of our application.
+(ii) In torch app we use camera permission for accesssing flash light of camera, which is the main functionalit of Torch App.
+
 ### 1. Personal Information
 
 Personal information is data that can be used to uniquely identify or contact a single person. We do not collect, store or use any personal information while you visit, download or upgrade our products. Only for the following purposes that we may use personal information submitted by you: help us develop, deliver, and improve our products and services and supply higher quality service; manage online surveys and other activities you’ve participated in.
